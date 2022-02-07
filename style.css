@@ -1,0 +1,74 @@
+body{
+    background-color: purple;
+}
+
+
+.jakes{
+    background-color: transparent;
+}
+
+
+.jakes img{
+    width: 600px;
+
+}
+
+
+.jakes h1{
+    color: white;
+}
+
+
+.pray{
+    background-color: transparent;
+    padding: 8rem;
+}
+
+
+.pray h1{
+    text-align: center;
+    color: white;
+
+}
+
+.pray p{
+    text-align: justify;
+    color: white;
+}
+
+.pray button{
+    background-color: transparent;
+    color: white
+}
+
+.entire{
+    display: flex;
+}
+
+
+nav{
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+nav ul{
+    list-style-type: none;
+
+}
+
+nav ul li{
+
+}
+
+nav ul li button{
+    
+
+}
+
+nav ul li button a{
+    text-decoration: none;
+
+}
